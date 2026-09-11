@@ -2,7 +2,7 @@
 
 **Necmettin Erbakan Üniversitesi | Bilgisayar Mühendisliği | Deep Learning & Computer Vision**
 
-Bilgisayar Mühendisliği 2. sınıf öğrencisiyim. Ağırlıklı olarak yapay zeka, makine öğrenmesi ve bilgisayarlı görü (Computer Vision) alanlarında kendimi geliştiriyorum. Algoritmaların dünyayı nasıl algıladığını ve veriden nasıl anlam çıkardığını daha iyi anlamak için çalışmalarda bulunuyorum. 
+Bilgisayar Mühendisliği 2. sınıf öğrencisiyim. Ağırlıklı olarak yapay zeka, makine öğrenmesi ve bilgisayarlı görü (Computer Vision) alanlarında kendimi geliştiriyorum. Algoritmaların dünyayı nasıl algıladığını ve veriden nasıl anlam çıkardığını anlamak en büyük motivasyonum. 
 
 ### 🚀 Hakkımda
 
