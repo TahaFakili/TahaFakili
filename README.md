@@ -7,7 +7,7 @@ Bilgisayar Mühendisliği 2. sınıf öğrencisiyim. Ağırlıklı olarak yapay 
 ### 🚀 Hakkımda
 
 * 🔭 Şu anda **Deep Learning** ve **Görüntü İşleme** algoritmaları üzerine yoğunlaşıyorum.
-* 🚁 İHA-0 ve İHA-1 amatör insansız hava aracı pilotu sertifikalarına sahibim. Görüntü işleme yeteneklerimi, otonom drone sistemleri ve hava görüntüleme teknolojileriyle birleştirmeyi hedefliyorum.
+* 🚁 İHA-0 ve İHA-1 amatör insansız hava aracı pilotu sertifikalarına sahibim. Görüntü işleme yeteneklerimle, otonom drone sistemleri ve hava görüntüleme teknolojilerinde sınırları zorlamayı hedefliyorum.
 * 📊 Veri bilimi ve makine öğrenmesi pratiklerimi ağırlıklı olarak **Kaggle** platformunda gerçekleştiriyorum.
 * 💻 Geliştirme süreçlerimi hızlandırmak ve daha temiz kod yazmak için **GitHub Copilot** gibi üretken yapay zeka araçlarını aktif olarak kullanıyorum.
 
@@ -21,4 +21,4 @@ Bilgisayar Mühendisliği 2. sınıf öğrencisiyim. Ağırlıklı olarak yapay 
 - **E-posta:** [fakilitaha@gmail.com]
 
 ---
-⭐️ *Bu profil sayfası GitHub'ın README özelliği ile oluşturulmuştur.*
+
