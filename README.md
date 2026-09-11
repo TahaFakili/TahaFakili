@@ -1,4 +1,4 @@
-# Merhaba, Ben Taha Yasin! 👋
+# Merhaba, Ben Taha! 👋
 
 **Necmettin Erbakan Üniversitesi | Bilgisayar Mühendisliği | Deep Learning & Computer Vision**
 
